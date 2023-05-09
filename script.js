@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // ng text animation script
     var typed = new Typed(".typing", {
-        strings: ["Web Developer", "Freelancer"],
+        strings: ["Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
